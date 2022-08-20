@@ -550,7 +550,7 @@ input, select, textarea {
 		}
 
 	h1, h2, h3, h4, h5, h6 {
-		font-weight: 500;
+		font-weight: 550;
 		color: inherit;
 		letter-spacing: -0.0325em;
 	}
@@ -575,7 +575,7 @@ input, select, textarea {
 	}
 
 	strong, b {
-		font-weight: 500;
+		font-weight: 900;
 		color: inherit;
 	}
 
@@ -1957,7 +1957,7 @@ input, select, textarea {
 		}
 
 			.main.style1 h2 {
-				font-size: 5.25em;
+				font-size: 3.25em;
 				line-height: 1em;
 			}
 
@@ -2244,7 +2244,7 @@ input, select, textarea {
 /* Intro */
 
 	#intro {
-		background: url("images/overlay.png"), url("../../images/DataAnalysis.jpg");
+		background: url("images/overlay.png"), url("../../images/ReDataAnalysis.jpg");
 		background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, bottom center;
@@ -2254,7 +2254,7 @@ input, select, textarea {
 /* One */
 
 	#one {
-		background: url("images/overlay.png"), url("../../images/DA3.jpg");
+		background: url("images/overlay.png"), url("../../images/ReDA3.jpg");
 		background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, center center;
@@ -2263,7 +2263,7 @@ input, select, textarea {
 /* Two */
 
 	#two {
-		background: url("images/overlay.png"), url("../../images/DA5.jpg");
+		background: url("images/overlay.png"), url("../../images/ReDA5.jpg");
 		background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, center center;
